@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://kalygulovdonat-ctrl.github.io/portfolio-3d/"><img src="https://img.shields.io/badge/3D_Portfolio-Live_%E2%86%92-0A0A12?style=for-the-badge&logo=threedotjs&logoColor=A78BFA" alt="Portfolio" /></a>
-  <a href="https://github.com/kalygulovdonat-ctrl?tab=repositories"><img src="https://img.shields.io/badge/Repositories-17-0A0A12?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Repos" /></a>
+  <a href="https://github.com/kalygulovdonat-ctrl?tab=repositories"><img src="https://img.shields.io/badge/All_Projects-%E2%86%92-0A0A12?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Repos" /></a>
   <img src="https://komarev.com/ghpvc/?username=kalygulovdonat-ctrl&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
 </div>
 
