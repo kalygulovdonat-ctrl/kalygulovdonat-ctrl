@@ -1,10 +1,16 @@
 <div align="center">
-  <img src="header.svg" alt="kalygulovdonat — Full Stack Developer" width="100%" />
+  <img src="header.svg" alt="Nurik — Full Stack Developer" width="100%" />
 </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Full+Stack%3A+Django+REST+%2B+React+%2B+TypeScript;Interactive+3D+websites+with+Three.js+%26+WebGL;From+idea+to+deployed+product+%E2%80%94+fast;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+%D1%81%D0%B0%D0%B9%D1%82%D1%8B%2C+%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5+%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D1%8E%D1%82%D1%81%D1%8F" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <a href="https://instagram.com/nur_kalygulovn"><img src="https://img.shields.io/badge/Instagram-nur__kalygulovn-0A0A12?style=for-the-badge&logo=instagram&logoColor=F472B6" alt="Instagram" /></a>
+  <a href="https://wa.me/996220709230"><img src="https://img.shields.io/badge/WhatsApp-%2B996_220_709_230-0A0A12?style=for-the-badge&logo=whatsapp&logoColor=22D3EE" alt="WhatsApp" /></a>
+  <a href="mailto:kalygulovnur@gmail.com"><img src="https://img.shields.io/badge/Email-kalygulovnur%40gmail.com-0A0A12?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
+</div>
 
 <div align="center">
   <a href="https://kalygulovdonat-ctrl.github.io/portfolio-3d/"><img src="https://img.shields.io/badge/3D_Portfolio-Live_%E2%86%92-0A0A12?style=for-the-badge&logo=threedotjs&logoColor=A78BFA" alt="Portfolio" /></a>
